@@ -1,4 +1,4 @@
-<img width="1958" height="623" alt="Screenshot 2026-04-05 115735" src="https://github.com/user-attachments/assets/3a2c6139-4ba2-450a-ad2c-2d89a4e59095" /># LAMP Stack Lab Guide
+# LAMP Stack Lab Guide
 
 ## Introduction
 A **LAMP stack** is a combination of open-source software typically installed together to host dynamic websites and web applications written in PHP.  
